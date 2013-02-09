@@ -4,7 +4,7 @@ Originally authored by Dave Lazar and edited by Stacey Hsu and Edward Ocampo-Goo
 
 This book is here to give you, the Shopify Platform Developer a leg up in your new (or old) adventure.
 
-## Setup
+## Setup 
 
 1. Install bundled dependencies:
 
