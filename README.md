@@ -1,4 +1,4 @@
-# Shopify Developer HandBook
+# Django Market Developer Handbook
 
 Originally authored by Dave Lazar and edited by Stacey Hsu and Edward Ocampo-Gooding.
 
